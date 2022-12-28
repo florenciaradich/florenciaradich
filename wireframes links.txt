@@ -1,0 +1,15 @@
+version escritorio
+https://wireframe.cc/K5426p index
+https://wireframe.cc/4Suu0v accesorios
+https://wireframe.cc/D82uXd  indumentaria 
+https://wireframe.cc/BG8yyy  zapatillas
+https://wireframe.cc/h7VrUq  contacto 
+
+version celular 
+https://wireframe.cc/0nHApH index
+https://wireframe.cc/xINC3U accesorios
+https://wireframe.cc/1n2L4V indumentaria 
+https://wireframe.cc/tm8sCD zapatillas
+https://wireframe.cc/trDFjL contacto
+
+
