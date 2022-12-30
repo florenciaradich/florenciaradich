@@ -5,15 +5,40 @@
 *{
 margin: 0;
 padding: 0;
+box-sizing: border-box;
 }
 
+#grilla {
+width: 100;
+height: 100;
+display: grid;
+grid-template-columns: 1fr;
+grid-template-rows: 1fr;
+grid-template-areas: 
+"nav"
+"header"
+"footer"
+} 
+
+#nav{
+width: 100;
+height: 100;
+display: grid;
+grid-template-columns: 1fr;
+grid-template-rows: 1fr;
+grid-template-areas: 
+"nav"
+"header"
+"footer"
+}
 
 .menu-horizontal{
     list-style:none;
     display: flex;
     justify-content: space-around;
+    }
 
-}
+
 .menu-horizontal > li > a{
 
     display: block;
@@ -30,7 +55,7 @@ padding: 0;
     color:black;
     padding-left: 650px;
     padding-top: 20px;
-
+    background-image:linear-gradient(20deg, grey, white) ;
 }
 
 .enlace{
@@ -57,6 +82,7 @@ padding: 0;
     background-color: #434242;
     display: flex;
     align-items: center;
+    background-image:linear-gradient(30deg, grey, white)
 }
 
 .zapatillas {
@@ -66,4 +92,5 @@ padding: 0;
 .logoFooter{
     width: 30px;
     padding-left: 650px;
+    color: black;
 }
